@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = adilsoumah@gmail.com
+	name = Adil Soumah
